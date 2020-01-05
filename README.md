@@ -16,6 +16,7 @@
   <li>Penyesuaian Struktur Kode PHP, dalam semua file.</li>
 </ul>
 
+<br/>
 <h2>Ketentuan</h2>
 LICENSE GPLV3 Kesimpulan 
 <p>1. Siapa saja dapat menyalin, memodifikasi, dan mendistribusikan perangkat lunak ini.</p>
@@ -27,7 +28,7 @@ LICENSE GPLV3 Kesimpulan
 <p>7. Segala modifikasi dari basis kode ini HARUS didistribusikan dengan lisensi yang sama, GPLv3.</p>
 <p>8. Perangkat lunak ini disediakan tanpa jaminan.</p>
 <p>9. Pembuat perangkat lunak atau lisensi tidak dapat bertanggung jawab atas segala kerusakan yang ditimbulkan oleh perangkat lunak.</p>
-
+<br/>
 LICENSE GPLV3 Conclusion
 <p>1. Anyone can copy, modify and distribute this software.</p>
 <p>2. You have to include the license and copyright notice with each and every distribution.</p>
