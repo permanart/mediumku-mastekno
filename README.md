@@ -18,25 +18,25 @@
 
 <h2>Ketentuan</h2>
 LICENSE GPLV3 Kesimpulan 
-1. Siapa saja dapat menyalin, memodifikasi, dan mendistribusikan perangkat lunak ini.
-2. Anda harus memasukkan lisensi dan pemberitahuan hak cipta dengan masing-masing dan setiap distribusi.
-3. Anda dapat menggunakan perangkat lunak ini secara pribadi.
-4. Anda dapat menggunakan perangkat lunak ini untuk tujuan komersial.
-5. Jika Anda berani membangun bisnis Anda hanya dari kode ini, Anda berisiko open-source seluruh basis kode.
-6. Jika Anda memodifikasinya, Anda harus menunjukkan perubahan yang dilakukan pada kode.
-7. Segala modifikasi dari basis kode ini HARUS didistribusikan dengan lisensi yang sama, GPLv3.
-8. Perangkat lunak ini disediakan tanpa jaminan.
-9. Pembuat perangkat lunak atau lisensi tidak dapat bertanggung jawab atas segala kerusakan yang ditimbulkan oleh perangkat lunak.
+<p>1. Siapa saja dapat menyalin, memodifikasi, dan mendistribusikan perangkat lunak ini.</p>
+<p>2. Anda harus memasukkan lisensi dan pemberitahuan hak cipta dengan masing-masing dan setiap distribusi.</p>
+<p>3. Anda dapat menggunakan perangkat lunak ini secara pribadi.</p>
+<p>4. Anda dapat menggunakan perangkat lunak ini untuk tujuan komersial.</p>
+<p>5. Jika Anda berani membangun bisnis Anda hanya dari kode ini, Anda berisiko open-source seluruh basis kode.</p>
+<p>6. Jika Anda memodifikasinya, Anda harus menunjukkan perubahan yang dilakukan pada kode.</p>
+<p>7. Segala modifikasi dari basis kode ini HARUS didistribusikan dengan lisensi yang sama, GPLv3.</p>
+<p>8. Perangkat lunak ini disediakan tanpa jaminan.</p>
+<p>9. Pembuat perangkat lunak atau lisensi tidak dapat bertanggung jawab atas segala kerusakan yang ditimbulkan oleh perangkat lunak.</p>
 
 LICENSE GPLV3 Conclusion
-1. Anyone can copy, modify and distribute this software.
-2. You have to include the license and copyright notice with each and every distribution.
-3. You can use this software privately.
-4. You can use this software for commercial purposes.
-5. If you dare build your business solely from this code, you risk open-sourcing the whole code base.
-6. If you modify it, you have to indicate changes made to the code.
-7. Any modifications of this code base MUST be distributed with the same license, GPLv3.
-8. This software is provided without warranty.
-9. The software author or license can not be held liable for any damages inflicted by the software.
+<p>1. Anyone can copy, modify and distribute this software.</p>
+<p>2. You have to include the license and copyright notice with each and every distribution.</p>
+<p>3. You can use this software privately.</p>
+<p>4. You can use this software for commercial purposes.</p>
+<p>5. If you dare build your business solely from this code, you risk open-sourcing the whole code base.</p>
+<p>6. If you modify it, you have to indicate changes made to the code.</p>
+<p>7. Any modifications of this code base MUST be distributed with the same license, GPLv3.</p>
+<p>8. This software is provided without warranty.</p>
+<p>9. The software author or license can not be held liable for any damages inflicted by the software.</p>
 
 <p>Jadi dilarang menghapus hak cipta pencipta dan kontributor, tapi boleh menambahkan. Serta wajib menyertakan license.</p>
