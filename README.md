@@ -10,7 +10,25 @@
   <li>Masuk ke bagian Tampilan >> Tema >> Tambah Baru >> Unggah Tema</li>
   <li>Kemudian masukan file tema yang sudah di download</li>
 </ol>
-
+<br/>
+<h3>Fitur Mediumku Wordpress</h3>
+<table cellpadding="0" cellspacing="0" style="text-align: left;"><tbody>
+<tr>             <th>Features</th>             <th>Availability</th>         </tr>
+<tr>             <td>Responsive</td>             <td>True</td>         </tr>
+<tr>             <td>Google Testing Tool Validator</td>             <td>True</td>         </tr>
+<tr>             <td>Responsive</td>             <td>True</td>         </tr>
+<tr>             <td>ADS Optimize</td>             <td>True </td>         </tr>
+<tr>             <td>SEO Friendly</td>             <td>True</td>         </tr>
+<tr>             <td>Dynamic Heading</td>             <td>True</td>         </tr>
+<tr>             <td>Menu Navigation</td>             <td>True</td>         </tr>
+<tr>             <td>High CTR</td>             <td>True</td>         </tr>
+<tr>             <td>2 Column</td>             <td>True</td>         </tr>
+<tr>             <td>Footer Menu</td>             <td>True</td>         </tr>
+<tr>             <td>Related Posts</td>             <td>True</td>         </tr>
+<tr>             <td>Search Box</td>             <td>True</td>         </tr>
+<tr>             <td>Social Share Button</td>             <td>True</td>         </tr>
+</tbody> </table>
+<br/>
 <h2>F.A.Q</h2>
 <h3>Perbedaan</h2>
 <p>Sumber Template HTML &amp; CSS di ambil dari Mediumish yang merupakan GPLV3 dan begitu juga template ini, segala sumber php sistem dan alur telah di modifikasi. Source code ini bersifat open source, bebas untuk dipakai dan digunakan (MASIH DALAM GPLV3).</p>
