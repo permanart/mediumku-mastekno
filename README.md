@@ -1,6 +1,6 @@
 <h1>Mediumku Wordpress Theme</h1>
 <p>Template wordpress seo, responsive dan fast loading. Untuk dapat memakai template wordpress gratis mirip medium, banyak kelebihan jika menggunakan template wp ini.</p>
-
+<img src="https://raw.githubusercontent.com/mastekno-com/mediumku-mastekno/master/screenshot.png" style="wdith:100%"/>
 <h1><a href="https://github.com/mastekno-com/mediumku-mastekno/archive/master.zip">DOWNLOAD</a> - <a href="https://www.bropulsa.com/post/">DEMO</a></h1>
 <p>Banyak di pakai oleh beberapa website ternama, template ini sangat cepat di akses dan memiliki berbagai kelebihan yang ada.</p>
 
